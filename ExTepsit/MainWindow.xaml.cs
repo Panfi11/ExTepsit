@@ -36,7 +36,7 @@ namespace ExTepsit
             double min;
             if (n1 > n2)
             {
-                max = n1;
+                max =   n1;
                 min = n2;
             }
             else

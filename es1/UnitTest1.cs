@@ -7,7 +7,7 @@ namespace es1
     public class UnitTest1
     {
         [TestMethod]
-        public void Metodo1Test()
+        public void Metodo1()
         {
             double media = 3.5;
             double risposta = Metodi.Metodo1();
@@ -15,7 +15,7 @@ namespace es1
         }
 
         [TestMethod]
-        public void Metodo2Test()
+        public void Metodo2()
         {
             double media = 3.5;
             double risposta = Metodi.Metodo2();
@@ -23,7 +23,7 @@ namespace es1
         }
 
         [TestMethod]
-        public void Metodo3Test()
+        public void Metodo3()
         {
             double media = 7;
             double risposta = Metodi.Metodo3();
